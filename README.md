@@ -4,11 +4,11 @@
 [![alt-text](https://img.shields.io/badge/-ВКонтакте-blue?style=flat&logo=vk&logoColor=white  "vk.com")](https://vk.com/reybos)&nbsp;&nbsp;
 [![alt-text](https://img.shields.io/badge/-instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/andreybossiy)
 
-<p>💼&nbsp;&nbsp;&nbsp;Я back end разработчик, сейчас пишу на php (yii2)</p>
-<p>🤓&nbsp;&nbsp;&nbsp;Параллельно изучаю java</p>
-<p>🏃&nbsp;&nbsp;&nbsp;В программирование пришел недавно, уже в сознательном возрасте</p>
-<p>:ru:&nbsp;&nbsp;&nbsp;Живу в Санкт-Петербурге </p>
-<p>:globe_with_meridians:&nbsp;&nbsp;&nbsp;Хочу посмотреть мир (когда закончится коронавирус)</p>
+💼&nbsp;&nbsp;&nbsp;Я back end разработчик, сейчас пишу на php (yii2)<br>
+🤓&nbsp;&nbsp;&nbsp;Параллельно изучаю java<br>
+🏃&nbsp;&nbsp;&nbsp;В программирование пришел недавно, уже в сознательном возрасте<br>
+:ru:&nbsp;&nbsp;&nbsp;Живу в Санкт-Петербурге<br>
+:globe_with_meridians:&nbsp;&nbsp;&nbsp;Хочу посмотреть мир (когда закончится коронавирус)<br>
 
 <!--
 **ReyBos/ReyBos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
