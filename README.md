@@ -1,12 +1,13 @@
 ## Привет 👋 Меня зовут Андрей
 
-[![alt-text](https://img.shields.io/badge/-linkedin-283e4a?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reybos/)
-[![alt-text](https://img.shields.io/badge/-ВКонтакте-blue?style=flat&logo=vk&logoColor=white  "vk.com")](https://vk.com/reybos)
+[![alt-text](https://img.shields.io/badge/-linkedin-283e4a?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reybos/)&nbsp;&nbsp;
+[![alt-text](https://img.shields.io/badge/-ВКонтакте-blue?style=flat&logo=vk&logoColor=white  "vk.com")](https://vk.com/reybos)&nbsp;&nbsp;
 [![alt-text](https://img.shields.io/badge/-instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/andreybossiy)
 
-* 🏃 В программирование пришел недавно, уже в сознательном возрасте
-* 💼 Я back end разработчик, сейчас пишу на php (yii2)
-* 🤓 Параллельно изучаю java
+* :ru:&nbsp;&nbsp;&nbsp;Живу в Санкт-Петербурге
+* 🏃&nbsp;&nbsp;&nbsp;В программирование пришел недавно, уже в сознательном возрасте
+* 💼&nbsp;&nbsp;&nbsp;Я back end разработчик, сейчас пишу на php (yii2)
+* 🤓&nbsp;&nbsp;&nbsp;Параллельно изучаю java
 
 <!--
 **ReyBos/ReyBos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
