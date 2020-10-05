@@ -5,13 +5,9 @@
 [![alt-text](https://img.shields.io/badge/-instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/andreybossiy)
 
 💼&nbsp;&nbsp;&nbsp;Я back end разработчик, сейчас пишу на php (yii2)<br>
-
 🤓&nbsp;&nbsp;&nbsp;Параллельно изучаю java<br>
-
 🏃&nbsp;&nbsp;&nbsp;В программирование пришел недавно, уже в сознательном возрасте<br>
-
 :ru:&nbsp;&nbsp;&nbsp;Живу в Санкт-Петербурге <br>
-
 :globe_with_meridians:&nbsp;&nbsp;&nbsp;Хочу посмотреть мир (когда закончится коронавирус)<br>
 
 <!--
