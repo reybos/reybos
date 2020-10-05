@@ -1,4 +1,11 @@
-### Hi there 👋
+## Привет 👋 Меня зовут Андрей
+
+* 💼 Я back end разработчик, сейчас пишу на php(yii2)
+
+* 🤓 Параллельно изучаю java
+
+* 🏃 В программирование пришел недавно, уже в сознательном возрасте, не без трудностей, конечно, да и куда без них в новом деле?
+* 💬 Меня можно найти в социальных сетях [![alt-текст](https://github.com/ReyBos/ReyBos/blob/main/vk.png "vk.com")](https://vk.com/reybos) и [![alt-текст](https://github.com/ReyBos/ReyBos/blob/main/instagram.png "instagram.com")](https://www.instagram.com/andreybossiy)
 
 <!--
 **ReyBos/ReyBos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
