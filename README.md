@@ -3,7 +3,8 @@
 [![alt-text](https://img.shields.io/badge/-linkedin-283e4a?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reybos/)&nbsp;&nbsp;
 [![alt-text](https://img.shields.io/badge/-ВКонтакте-blue?style=flat&logo=vk&logoColor=white  "vk.com")](https://vk.com/reybos)&nbsp;&nbsp;
 [![alt-text](https://img.shields.io/badge/-instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/andreybossiy)&nbsp;&nbsp;
-![Profile views](https://gpvc.arturio.dev/reybos)
+<!-- ![Profile views](https://gpvc.arturio.dev/reybos) 
+-->
 
 💼&nbsp;&nbsp;&nbsp;Я back end разработчик, сейчас пишу на php (yii2)<br>
 🤓&nbsp;&nbsp;&nbsp;Параллельно изучаю java<br>
