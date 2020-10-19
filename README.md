@@ -11,6 +11,8 @@
 🏃&nbsp;&nbsp;&nbsp;I came to programming recently, already at a conscious age<br>
 :ru:&nbsp;&nbsp;&nbsp;I live in St. Petersburg<br>
 :globe_with_meridians:&nbsp;&nbsp;&nbsp;I want to see the world (when the coronavirus ends)<br>
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reybos&hide=css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ReyBos/ReyBos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
