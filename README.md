@@ -2,7 +2,7 @@
 [![alt-text](https://img.shields.io/badge/-linkedin-283e4a?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reybos/)&nbsp;&nbsp;
 [![alt-text](https://img.shields.io/badge/-ВКонтакте-blue?style=flat&logo=vk&logoColor=white  "vk.com")](https://vk.com/reybos)&nbsp;&nbsp;
 [![alt-text](https://img.shields.io/badge/-instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/andreybossiy)&nbsp;&nbsp;
-[![alt-text](https://img.shields.io/badge/-telegram-E4405F?style=flat&logo=telegram&logoColor=white)](https://t.me/reybos)&nbsp;&nbsp;
+[![alt-text](https://img.shields.io/badge/-telegram-grey?style=flat&logo=telegram&logoColor=white)](https://t.me/reybos)&nbsp;&nbsp;
 <!-- ![Profile views](https://gpvc.arturio.dev/reybos) 
 -->
 
