@@ -9,11 +9,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reybos&hide=css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h4>Меня можно найти тут:</h4>
-<ul>
-  <li><a href="https://www.linkedin.com/in/reybos/">linkedin</a></li>
-  <li><a href="https://t.me/reybos">telegram</a></li>
-  <li><a href="https://vk.com/reybos">vk</a></li>
-</ul>
+
+[![alt-text](https://img.shields.io/badge/-linkedin-283e4a?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reybos/)&nbsp;&nbsp;
+[![alt-text](https://img.shields.io/badge/-ВКонтакте-blue?style=flat&logo=vk&logoColor=white  "vk.com")](https://vk.com/reybos)&nbsp;&nbsp;
+[![alt-text](https://img.shields.io/badge/-instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/andreybossiy)&nbsp;&nbsp;
+[![alt-text](https://img.shields.io/badge/-telegram-grey?style=flat&logo=telegram&logoColor=white)](https://t.me/reybos)&nbsp;&nbsp;
 
 <!--
 [![alt-text](https://img.shields.io/badge/-linkedin-283e4a?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reybos/)&nbsp;&nbsp;
