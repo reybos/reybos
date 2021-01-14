@@ -5,6 +5,12 @@
   <li><strong><a href="https://github.com/ReyBos/job4j_elementary">Level 1</a></strong>: Java SE, ООП</li>
   <li><strong><a href="https://github.com/ReyBos/job4j_design">Level 2</a></strong>: структуры данных и алгоритмы, input-output, SQL, JDBC, Garbage Collection, OOD</li>
 </ul>
+<ul>
+  <li><strong><a href="https://github.com/ReyBos/job4j_tracker">Консольное CRUD приложение</a></strong> - демонстрация ООП, JDBC</li>
+  <li><strong><a href="https://github.com/ReyBos/job4j_grabber">Простой HTML парсер</a></strong> - JSOUP, JDBC, библиотека Quartz и Slf4j</li>
+  <!-- <li><strong><a href=""></a></strong></li> -->
+</ul>
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reybos&hide=css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
