@@ -2,14 +2,15 @@
 <p>Я начал свой путь в программировании в сентябре 2018 года как php-разработчик. Первые шаги показали что я сделал правильный выбор, когда решил сменить профессию. Однако недавно пришло осознание что пора двигаться дальше. Новым пунктом назначения я выбрал Java, так как после краткого знакомства с языком осталось впечатление чего-то фундаментального. Также язык привлек меня огромным количеством хороших источников информации и большим комьюнити. Думаю что я добьюсь поставленных перед собой целей двигаясь в этом направлении.</p>
 <h4>Мои учебные проекты на Java:</h4>
 <ul>
-  <li><strong><a href="https://github.com/ReyBos/job4j_elementary">Level 1</a></strong>: Java SE, ООП</li>
-  <li><strong><a href="https://github.com/ReyBos/job4j_design">Level 2</a></strong>: структуры данных и алгоритмы, input-output, SQL, JDBC, Garbage Collection, OOD</li>
-</ul>
-<ul>
-  <li><strong><a href="https://github.com/ReyBos/job4j_tracker">Консольное CRUD приложение</a></strong> - демонстрация ООП, JDBC</li>
-  <li><strong><a href="https://github.com/ReyBos/job4j_grabber">Простой HTML парсер</a></strong> - JSOUP, JDBC, библиотека Quartz и Slf4j</li>
+  <li><strong><a href="https://github.com/ReyBos/job4j_grabber">Простой HTML парсер</a></strong>: JSOUP, JDBC, библиотека Quartz и Slf4j</li>
+  <li><strong><a href="https://github.com/ReyBos/job4j_tracker">Консольное CRUD приложение</a></strong>: демонстрация ООП, JDBC</li>
   <!-- <li><strong><a href=""></a></strong></li> -->
 </ul>
+<ul>
+  <li><strong><a href="https://github.com/ReyBos/job4j_design">Level 2</a></strong>: структуры данных и алгоритмы, input-output, SQL, JDBC, Garbage Collection, OOD</li>
+  <li><strong><a href="https://github.com/ReyBos/job4j_elementary">Level 1</a></strong>: Java SE, ООП</li>
+</ul>
+
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reybos&hide=css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
