@@ -2,14 +2,10 @@
 <p>Я начал свой путь в программировании в сентябре 2018 года как php-разработчик. Первые шаги показали что я сделал правильный выбор, когда решил сменить профессию. Однако недавно пришло осознание что пора двигаться дальше. Новым пунктом назначения я выбрал Java, так как после краткого знакомства с языком осталось впечатление чего-то фундаментального. Также язык привлек меня огромным количеством хороших источников информации и большим комьюнити. Думаю что я добьюсь поставленных перед собой целей двигаясь в этом направлении.</p>
 <h4>Мои проекты на Java:</h4>
 <ul>
-  <li><strong><a href="https://github.com/ReyBos/job4j_grabber">Простой HTML парсер</a></strong>: JSOUP, JDBC, библиотека Quartz и Slf4j</li>
-  <li><strong><a href="https://github.com/ReyBos/job4j_tracker">Консольное CRUD приложение</a></strong>: демонстрация ООП, JDBC</li>
+  <li><strong><a href="https://github.com/ReyBos/job4j_dreamjob">Проект. "Работа мечты"</a></strong>: Java EE Servlets, JSP, JSTL, PostgreSQL, JDBC, Liquibase, JUnit4, Mockito, PowerMock, Maven, Tomcat</li>
+  <li><strong><a href="https://github.com/ReyBos/job4j_grabber">Проект "Grabber"</a></strong>: PostgreSQL, JDBC, Liquibase, Quartz, JSOUP</li>
+  <li><strong><a href="https://github.com/ReyBos/job4j_tracker">Проект "Tracker"</a></strong> PostgreSQL, JDBC, Liquibase, JUnit4</li>
   <!-- <li><strong><a href=""></a></strong></li> -->
-</ul>
-<ul>
-  <li><strong><a href="https://github.com/ReyBos/job4j_threads">Level 3</a></strong>: многопоточность</li>
-  <li><strong><a href="https://github.com/ReyBos/job4j_design">Level 2</a></strong>: структуры данных и алгоритмы, input-output, SQL, JDBC, Garbage Collection, OOD</li>
-  <li><strong><a href="https://github.com/ReyBos/job4j_elementary">Level 1</a></strong>: Java SE, ООП</li>
 </ul>
 
 <br>
