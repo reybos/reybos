@@ -3,6 +3,7 @@
 <h4>Мои проекты на Java:</h4>
 <ul>
   <li><strong><a href="https://github.com/ReyBos/job4j_dreamjob">"Dream Job"</a></strong> Java EE Servlets, JSP, JSTL, PostgreSQL, JDBC, Liquibase, JUnit4, Mockito, PowerMock, Maven, Tomcat</li>
+  <li><strong><a href="https://github.com/ReyBos/job4j_pooh">"Pooh JMS"</a></strong> Java Concurrency, Sockets, Java IO, GSON</li>
   <li><strong><a href="https://github.com/ReyBos/job4j_grabber">"Grabber"</a></strong> PostgreSQL, JDBC, Liquibase, Quartz, JSOUP</li>
   <li><strong><a href="https://github.com/ReyBos/job4j_tracker">"Tracker"</a></strong> PostgreSQL, JDBC, Liquibase, JUnit4</li>
   <!-- <li><strong><a href=""></a></strong></li> -->
