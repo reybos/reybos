@@ -2,13 +2,34 @@
 <p>Я начал свой путь в программировании как php-разработчик в 2018 году. За плечами 2,5 года коммерческой разработки, в основном back end, но также доводилось решать несложные front end задачи. С 1 сентября 2020 года начал плавный переход на Java. За это время было написано огромное количество кода на этом языке и изучено немало технологий.</p>
 <h4>Мои проекты на Java:</h4>
 <ul>
-  <li><strong><a href="https://github.com/ReyBos/job4j_cars">"Car Sales"</a></strong>&nbsp;&nbsp; Java EE, Servlets, Hibernate</li>
-  <li><strong><a href="https://github.com/ReyBos/job4j_todo">"Todo List"</a></strong>&nbsp;&nbsp; Java EE, Servlets, Hibernate</li>
-  <li><strong><a href="https://github.com/ReyBos/job4j_cinema">"Cinema"</a></strong>&nbsp;&nbsp; Java EE, Servlets, JDBC</li>
-  <li><strong><a href="https://github.com/ReyBos/job4j_dreamjob">"Dream Job"</a></strong>&nbsp;&nbsp; Java EE, Servlets, JDBC</li>
-  <li><strong><a href="https://github.com/ReyBos/job4j_pooh">"Pooh JMS"</a></strong>&nbsp;&nbsp; Java SE, Concurrency</li>
-  <li><strong><a href="https://github.com/ReyBos/job4j_grabber">"Grabber"</a></strong>&nbsp;&nbsp; Java SE, JDBC</li>
-  <li><strong><a href="https://github.com/ReyBos/job4j_tracker">"Tracker"</a></strong>&nbsp;&nbsp; Java SE, JDBC</li>
+  <li>
+    <strong><a href="https://github.com/ReyBos/job4j_cars">"Car Sales"</a></strong><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Java EE, Servlets, Hibernate
+  </li>
+  <li>
+    <strong><a href="https://github.com/ReyBos/job4j_todo">"Todo List"</a></strong><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Java EE, Servlets, Hibernate
+  </li>
+  <li>
+    <strong><a href="https://github.com/ReyBos/job4j_cinema">"Cinema"</a></strong><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Java EE, Servlets, JDBC
+  </li>
+  <li>
+    <strong><a href="https://github.com/ReyBos/job4j_dreamjob">"Dream Job"</a></strong><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Java EE, Servlets, JDBC
+  </li>
+  <li>
+    <strong><a href="https://github.com/ReyBos/job4j_pooh">"Pooh JMS"</a></strong><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Java SE, Concurrency
+  </li>
+  <li>
+    <strong><a href="https://github.com/ReyBos/job4j_grabber">"Grabber"</a></strong><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Java SE, JDBC
+  </li>
+  <li>
+    <strong><a href="https://github.com/ReyBos/job4j_tracker">"Tracker"</a></strong><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Java SE, JDBC
+  </li>
   <!-- <li><strong><a href=""></a></strong></li> -->
 </ul>
 
