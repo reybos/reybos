@@ -4,19 +4,19 @@
 
 <ul>
   <li>
-    <strong><a href="https://github.com/ReyBos/job4j_cars">"Car Sales"</a></strong> Java EE, Servlets, JSP, JSTL, PostgreSQL, Hibernate, Liquibase, JUnit4, Mockito, PowerMock, Maven, Tomcat
+    <strong><a href="https://github.com/ReyBos/job4j_cars">"Car Sales"</a></strong> Java EE, Servlets, JSP, JSTL, PostgreSQL, Hibernate, Liquibase, JUnit4, Mockito, PowerMock
   </li>
   <li>
-    <strong><a href="https://github.com/ReyBos/job4j_car_accident">"Car Accident"</a></strong> Spring framework, JSP, JSTL, PostgreSQL, JDBC, Hibernate, Liquibase, Maven, Tomcat
+    <strong><a href="https://github.com/ReyBos/job4j_car_accident">"Car Accident"</a></strong> Spring framework, JSP, JSTL, PostgreSQL, JDBC, Hibernate, Liquibase
   </li>
   <li>
     <strong><a href="https://github.com/ReyBos/job4j_todo">"Todo List"</a></strong> Java EE, Servlets, PostgreSQL, Hibernate, Liquibase, JUnit4, Mockito, PowerMock, Maven, Tomcat
   </li>
   <li>
-    <strong><a href="https://github.com/ReyBos/job4j_cinema">"Cinema"</a></strong> Java EE Servlets, PostgreSQL, JDBC, Liquibase, JUnit4, Maven, Tomcat
+    <strong><a href="https://github.com/ReyBos/job4j_cinema">"Cinema"</a></strong> Java EE Servlets, PostgreSQL, JDBC, Liquibase, JUnit4
   </li>
   <li>
-    <strong><a href="https://github.com/ReyBos/job4j_dreamjob">"Dream Job"</a></strong> Java EE Servlets, JSP, JSTL, PostgreSQL, JDBC, Liquibase, JUnit4, Mockito, PowerMock, Maven, Tomcat
+    <strong><a href="https://github.com/ReyBos/job4j_dreamjob">"Dream Job"</a></strong> Java EE Servlets, JSP, JSTL, PostgreSQL, JDBC, Liquibase, JUnit4, Mockito, PowerMock
   </li>
   <li>
     <strong><a href="https://github.com/ReyBos/job4j_pooh">"Pooh JMS"</a></strong> Java SE, Concurrency, Sockets, Java IO, GSON
