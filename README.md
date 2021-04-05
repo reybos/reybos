@@ -7,7 +7,7 @@
     <strong><a href="https://github.com/ReyBos/job4j_cars">"Car Sales"</a></strong> Java EE, Servlets, JSP, JSTL, PostgreSQL, Hibernate, Liquibase, JUnit4, Mockito, PowerMock
   </li>
   <li>
-    <strong><a href="https://github.com/ReyBos/job4j_car_accident">"Car Accident"</a></strong> Spring framework, JSP, JSTL, PostgreSQL, JDBC, Hibernate, Liquibase
+    <strong><a href="https://github.com/ReyBos/job4j_car_accident">"Car Accident"</a></strong> Spring (MVC, ORM, Data, Security), JSP, JSTL, JDBC, Hibernate, Maven, Tomcat
   </li>
   <li>
     <strong><a href="https://github.com/ReyBos/job4j_todo">"Todo List"</a></strong> Java EE, Servlets, PostgreSQL, Hibernate, Liquibase, JUnit4, Mockito, PowerMock, Maven, Tomcat
