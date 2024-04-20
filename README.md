@@ -6,4 +6,4 @@
 * ***05.2021 - 12.2022 java developer, Yandex.Market.*** An application for pick-up points.
 * ***12.2022 - 02.2024 team lead, Yandex.Market.*** A team of 5 java developers.
 
-<p>In the profile description you can find a link to my linkedin and telegram channel (in Russian). Feel free to contact me</p>
+<p>In the profile description you can find a link to my linkedin and telegram. Feel free to contact me</p>
