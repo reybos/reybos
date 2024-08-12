@@ -1,9 +1,7 @@
 ## Hi 👋 my name is Andrew
-<p>Since 2018, I have been engaged in backend development.</p>
 
-* ***09.2018 - 10.2019 php developer, Mikebi.*** An educational startup. Conducting mathematical Olympiads and an educational application
-* ***10.2019 - 12.2020 php developer JustWebIt.*** An internal CRM system for managing traffic arbitration.
-* ***05.2021 - 12.2022 java developer, Yandex.Market.*** An application for pick-up points.
-* ***12.2022 - 02.2024 team lead, Yandex.Market.*** A team of 5 java developers.
+**“Who would have thought?”** — a question I find myself asking more and more as I reflect on my career and personal life. Each time, I’m glad that the answers are positive. Who would have thought that I would change careers and become a backend developer at one of the leading IT companies in Russia? Who would have thought that I would move to Europe? Who would have thought that I would visit so many countries in just one year? Who would have thought that…?
 
-<p>In the profile description you can find a link to my linkedin and telegram. Feel free to contact me</p>
+I am a backend developer with over 2 years of experience working with Java and 1 year of managing a small team. Throughout my career, I have worked in product teams, and I truly enjoy it: being involved in projects from designing technical solutions to supporting them in production.
+
+Outside of work, I’m passionate about waste sorting and recycling, run a small blog on Telegram about life in emigration, and enjoy walking and road trips.
